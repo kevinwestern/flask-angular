@@ -1,5 +1,5 @@
 {
-  "name": "apm",
+  "name": "flask-angular",
   "version": "0.0.0",
   "description": "node setup",
   "main": "Gruntfile.js",

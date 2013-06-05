@@ -1,6 +1,6 @@
 'use strict';
 
-var app = angular.module('apm', []);
+var app = angular.module('my-app', []);
 
 app.config(['$routeProvider', function($routeProvider) {
     $routeProvider.when('/', {
